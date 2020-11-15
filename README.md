@@ -26,4 +26,5 @@ Dima - Data Scientist
 Dima - Haifa
 
 Elimelech - SCR
-Elime - PetahTikva
+Elimelech - Algo Eng.
+Elimelech - PetahTikva
