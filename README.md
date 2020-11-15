@@ -18,3 +18,6 @@ Dima - MSD
 Harel Friedman too!
 
 Dima - Data Scientist
+
+
+Dima - Haifa
