@@ -1,6 +1,7 @@
 # hello-world
 
 --> write your content below:
+<<<<<<< HEAD
 Pini - Harish
 Pini - algo dev
 Pini
@@ -36,3 +37,24 @@ Eden fix 2
 something new
 
 MAJD
+
+Alla
+=======
+noama: IAI Course
+user2
+user1
+
+
+Alla - DevOps Architect
+
+Moshe Tiko - Mevaseret Zion
+Alla - Ramla
+
+<<<<<<< HEAD
+Rami - IAI
+
+Iris - IAI
+
+Iris - HASHMONAIM
+=======
+Aholiav - add something  )
