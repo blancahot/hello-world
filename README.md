@@ -43,15 +43,18 @@ Alla
 noama: IAI Course
 user2
 user1
->>>>>>> e8e77769581b4691e09c9f7414dbdcb01beada83
+
 
 Alla - DevOps Architect
 
 Moshe Tiko - Mevaseret Zion
 Alla - Ramla
 
+<<<<<<< HEAD
 Rami - IAI
 
 Iris - IAI
 
 Iris - HASHMONAIM
+=======
+Aholiav - add something  )
